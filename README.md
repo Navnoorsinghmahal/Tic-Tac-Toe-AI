@@ -60,7 +60,7 @@ The Minimax algorithm is used in this project to enable the AI to make the best 
 ## Project Structure
 ```bash
 TicTacTactician/
-├── tictactactician.py # Main game script
+├── main.py # Main game script
 ├── README.md # Project README file
 └── requirements.txt # Project dependencies
 
