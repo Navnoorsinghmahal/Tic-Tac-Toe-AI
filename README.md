@@ -1,6 +1,6 @@
 # TicTacTactician
 
-This is a simple Tic-Tac-Toe game implemented using Python and Pygame, featuring a computer opponent that uses the Minimax algorithm to play optimally.
+This is a simple Tic-Tac-Toe game implemented using Python and Pygame, featuring a computer opponent that uses the Minimax algorithm to play optimally and is unbeatable.
 
 ## Table of Contents
 
